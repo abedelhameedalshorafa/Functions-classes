@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Functions2&3\Task2.csproj", "{58673634-1200-47E0-9007-2809F6F4BE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{9043318F-B8AA-46E3-A139-730D13BE86F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesTask5", "ClassesTask5\ClassesTask5.csproj", "{F93C99A6-5D98-48CA-ABFF-F83DB5F956BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58673634-1200-47E0-9007-2809F6F4BE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58673634-1200-47E0-9007-2809F6F4BE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58673634-1200-47E0-9007-2809F6F4BE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58673634-1200-47E0-9007-2809F6F4BE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9043318F-B8AA-46E3-A139-730D13BE86F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9043318F-B8AA-46E3-A139-730D13BE86F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9043318F-B8AA-46E3-A139-730D13BE86F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9043318F-B8AA-46E3-A139-730D13BE86F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93C99A6-5D98-48CA-ABFF-F83DB5F956BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93C99A6-5D98-48CA-ABFF-F83DB5F956BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93C99A6-5D98-48CA-ABFF-F83DB5F956BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93C99A6-5D98-48CA-ABFF-F83DB5F956BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086434F1-9680-4460-9550-0FC9269B1C54}
+	EndGlobalSection
+EndGlobal
